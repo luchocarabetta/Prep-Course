@@ -1,0 +1,13 @@
+-Variables: es una forma de almacenar el valor de algo para usar mas tarde.
+
+-Strings: es una cadena de caracteres y siempre van entre comillas.
+
+-Funciones (argumentos, return): es un bloque de códigos que realiza alguna operación o devuelve un valor como salida.
+Los argumentos son los valores que le pasamos (y que, por tanto, recibe) una función. 
+La sentencia return finaliza la ejecución de la función y especifica un valor para ser devuelto a quien llama a la función.
+
+-Declaraciones if: se utiliza para evaluar una expresión condicional, si se cumple la condición (es verdadera), ejecutará un bloque de código. Si es falsa, es posible ejecutar otras sentencias.
+
+-Valores booleanos (true, false): son un tipo de dato primitivo comúnmente usado en lenguajes de programación. Por definición, un booleano tiene 2 posibles valores: true (verdadero) o false (falso), encendido o apagado, 0 o 1.
+
+
