@@ -1,0 +1,9 @@
+for: es un codicional parecido al if pero un poco más complejo. Primero se declara una variable, luego la expresión condicional y por último el incremento de la variable. Ejemplo: for (let i = 0 ; i < 0  ; i++) {
+
+&&, ||, !: son operadores lógicos.
+
+&&: "y" (and), evaluará ambas expresiones y devolverá verdadero si ambas expresiones son TRUE pero si una o ambas de ellas es falso devolverá FALSE.
+
+||: "ó (or): devolverá TRUE si una o ambas expresiones es TRUE y devolverá FALSE si ambas expresiones son falsas.
+
+!: operador "NOT" (no): devolverá el valor booleano opuesto de lo que pasa.
