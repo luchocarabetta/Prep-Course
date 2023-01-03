@@ -1,0 +1,9 @@
+* Objetos: son un contenedor de propiedades donde una propiedad tiene un nombre o clave (key) y un valor (value). Se identifican con {}.
+
+* Propiedades: tiene un nombre y un valor. El nombre de una propiedad puede ser una cadena de caracteres, incluso una vacía. El valor de la propiedad puede ser cualquier valor que podamos utilizar en JavaScript, excepto undefined .
+
+* Métodos: se denominan asi a las funciones guardadas en un objeto.
+
+* Bucle `for…in`: es el equivalente al bucle 'for' de los arreglos.
+
+* Notación de puntos vs notación de corchetes: son dos formas diferentes de acceder a valores o asignar valores. La notación de corchetes casi siempre suelen utilizarse con variables.
