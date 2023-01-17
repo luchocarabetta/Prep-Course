@@ -1,0 +1,3 @@
+* prototype:  Los prototipos son un mecanismo mediante el cual los objetos en JS heredan características entre sí. Esto permite utilizar un mismo método para todos los objetos de una misma clase.
+
+* Constructors(de Clases): sirven para crear moldes o plantillas que se podrán utilizar para crear objetos distintos con propiedades comunes entre sí y/o métodos.
