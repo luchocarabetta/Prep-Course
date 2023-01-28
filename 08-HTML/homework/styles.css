@@ -1,0 +1,27 @@
+#spanID {
+  font-size: 18px;
+  margin: 50px;
+  font-weight:bold;
+  background-color: white;
+}
+
+#thirdDiv {
+  bottom: -500px;
+  right: 100px;
+  background-color: orange;
+  height: 600px;
+  width: 500px;
+  padding: 50px;
+  border: black double 8px;
+  margin: 0px auto;
+  }
+
+body {
+  background-image: url(fondodepagina.png);
+}
+
+.divClass {
+text-align: center;
+}
+
+  
